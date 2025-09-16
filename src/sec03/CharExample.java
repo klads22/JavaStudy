@@ -1,4 +1,4 @@
-package ch02.sec03;
+package sec03;
 
 public class CharExample {
 	
