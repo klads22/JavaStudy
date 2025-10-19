@@ -33,6 +33,8 @@ public class WeekExample {
 			System.out.println(today);
 			System.out.println("열심히 자바 공부");
 		}
+	}
+}
 		
 	
-}
+
